@@ -15,6 +15,7 @@ namespace Repo1
             Console.WriteLine("");
             Console.ReadLine();
             Console.Write(".");
+            Console.Write("Hej, Charbel var här!");
 
         }
     }
